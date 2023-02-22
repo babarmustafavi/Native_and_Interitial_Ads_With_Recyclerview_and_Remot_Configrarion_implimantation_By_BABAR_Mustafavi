@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "257171843425",
+    "firebase_url": "https://fir-70fee-default-rtdb.firebaseio.com",
+    "project_id": "fir-70fee",
+    "storage_bucket": "fir-70fee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257171843425:android:d9273bec713619b26c3d20",
+        "android_client_info": {
+          "package_name": "com.example.taskfunprime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257171843425-4s4elijgom9ru1rl0fl1ufandggl56ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQAvBUoY3JsLjxff2KZJkZXNmT5xO-JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257171843425-4s4elijgom9ru1rl0fl1ufandggl56ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257171843425:android:3562cd87de3bdf676c3d20",
+        "android_client_info": {
+          "package_name": "com.kazimasum.recmvvm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257171843425-4s4elijgom9ru1rl0fl1ufandggl56ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQAvBUoY3JsLjxff2KZJkZXNmT5xO-JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257171843425-4s4elijgom9ru1rl0fl1ufandggl56ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskFunPrime</string>
+    <string name="admob_interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="nativead">ca-app-pub-3940256099942544/2247696110</string>
+</resources>
